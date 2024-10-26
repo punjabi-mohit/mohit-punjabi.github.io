@@ -1,1 +1,4 @@
-# mohit-punjabi.github.io
+# Mohit Punjabi
+
+#Education
+• Msc Advanced Computing
